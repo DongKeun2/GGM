@@ -139,7 +139,7 @@ NotFound404
 
 ### 영화 정보 데이터베이스
 
-![SQLite - final_pjt - Visual Studio Code 2022-05-26 오후 7_04_00](../README_동근.assets/SQLite-final_pjt-Visual Studio Code 2022-05-26 오후 7_04_00.png)
+![SQLite - final_pjt - Visual Studio Code 2022-05-26 오후 7_04_00](../README_동근.assets/1.png)
 
 포스터와 백드롭 이미지 정보가 있는 한국영화 DB 저장
 
@@ -149,11 +149,11 @@ NotFound404
 
 ### 1. 추천 페이지
 
-![Untitled – Figma - Chrome 2022-05-26 오후 7_20_40](README_동근.assets/Untitled – Figma - Chrome 2022-05-26 오후 7_20_40.png)
+![Untitled – Figma - Chrome 2022-05-26 오후 7_20_40](README_동근.assets/2.png)
 
 추천 알고리즘을 이용하여 유저에게 맞춤 영화 12개를 추천합니다. 새로고침을 통해 다른 영화 추천을 요청할 수도 있습니다.
 
-![Untitled – Figma - Chrome 2022-05-26 오후 7_26_28](README_동근.assets/Untitled – Figma - Chrome 2022-05-26 오후 7_26_28.png)
+![Untitled – Figma - Chrome 2022-05-26 오후 7_26_28](README_동근.assets/3.png)
 
 추천 영화 아래에는 랜덤한 3개의 장르에서 24개의 영화를 소개해줍니다.
 
@@ -167,7 +167,7 @@ NotFound404
 
 ### 2. 영화 평점
 
-![Untitled – Figma - Chrome 2022-05-26 오후 7_37_08](README_동근.assets/Untitled – Figma - Chrome 2022-05-26 오후 7_37_08.png)
+![Untitled – Figma - Chrome 2022-05-26 오후 7_37_08](README_동근.assets/4.png)
 
 영화에 대한 평점을 0점부터 5점까지 0.5점 단위로 입력할 수 있고 사용자 경험을 위해 star-rating을 활용했습니다.
 
@@ -177,7 +177,7 @@ NotFound404
 
 삭제 시에는 경고 메시지를 띄워 한 번 더 확인합니다.
 
-![GGM - Chrome 2022-05-26 오후 4_20_13](README_동근.assets/GGM - Chrome 2022-05-26 오후 4_20_13.png)
+![GGM - Chrome 2022-05-26 오후 4_20_13](README_동근.assets/5.png)
 
 각 영화 상세정보에는 해당 영화의 유저들의 평점을 포함하고 있습니다.
 
@@ -185,7 +185,7 @@ NotFound404
 
 ### 3. 커뮤니티
 
-![GGM - Chrome 2022-05-26 오후 7_53_00](README_동근.assets/GGM - Chrome 2022-05-26 오후 7_53_00.png)
+![GGM - Chrome 2022-05-26 오후 7_53_00](README_동근.assets/6.png)
 
 커뮤니티 페이지에서 작성된 리뷰 목록을 볼 수 있습니다.
 
@@ -201,7 +201,7 @@ NotFound404
 
 ### 4. 검색 기능
 
-![GGM - Chrome 2022-05-26 오후 4_23_55](README_동근.assets/GGM - Chrome 2022-05-26 오후 4_23_55.png)
+![GGM - Chrome 2022-05-26 오후 4_23_55](README_동근.assets/7.png)
 
 영화 추천 페이지에서 우측 상단의 입력창을 이용하여 DB에 저장된 영화를 검색할 수 있습니다.
 
@@ -211,7 +211,7 @@ NotFound404
 
 ### 5. 영화 좋아요 기능
 
-![GGM - Chrome 2022-05-26 오후 8_04_28](README_동근.assets/GGM - Chrome 2022-05-26 오후 8_04_28.png)
+![GGM - Chrome 2022-05-26 오후 8_04_28](README_동근.assets/8.png)
 
 추천 페이지에서 하트를 눌러 내 영화에 추가할 경우 프로필에서 해당 영화들을 살펴볼 수 있습니다.
 
@@ -223,7 +223,7 @@ NotFound404
 
 ### 5. Error Handling
 
-![Untitled – Figma - Chrome 2022-05-26 오후 7_29_48](README_동근.assets/Untitled – Figma - Chrome 2022-05-26 오후 7_29_48.png)
+![Untitled – Figma - Chrome 2022-05-26 오후 7_29_48](README_동근.assets/9.png)
 
 회원가입 또는 로그인 시 잘못된 정보 요청 시 해당 오류 메시지를 출력하게 했습니다.
 
