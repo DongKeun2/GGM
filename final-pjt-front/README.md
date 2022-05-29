@@ -139,7 +139,7 @@ NotFound404
 
 ### 영화 정보 데이터베이스
 
-![SQLite - final_pjt - Visual Studio Code 2022-05-26 오후 7_04_00](../README_동근.assets/1.png)
+![SQLite - final_pjt - Visual Studio Code 2022-05-26 오후 7_04_00](README_동근.assets/1.png)
 
 포스터와 백드롭 이미지 정보가 있는 한국영화 DB 저장
 
